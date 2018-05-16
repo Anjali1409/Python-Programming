@@ -1,5 +1,5 @@
-N=raw_input()
-if(N>='a' and N<='z') or (N>='A' and N<='Z'):
+D=raw_input()
+if(D>='a' and D<='z') or (D>='A' and D<='Z'):
 	print "Alphabet"
 else:
 	print "No"
