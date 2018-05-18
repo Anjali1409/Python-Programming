@@ -1,6 +1,6 @@
-n=int(input())
-count=0
-while(n>0):
-    count=count+1
-    n=n//10
-print(count)
+z=int(input())
+cou=0
+while(z>0):
+    cou=cou+1
+    z=z//10
+print(cou)
